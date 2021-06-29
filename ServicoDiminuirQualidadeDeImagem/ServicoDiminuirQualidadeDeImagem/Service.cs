@@ -28,11 +28,11 @@ namespace ServicoDiminuirQualidadeDeImagem
         {
             var param = new EncoderParameters(1);
             param.Param[0] = new EncoderParameter(System.Drawing.Imaging.Encoder.Quality, qualidade);
-            var codec = ObterCodec(imagem.RawFormat);
+            var codec = GetCodec(imagem.RawFormat);
             imagem.Save(file, codec, param);
         }
 
-        private ImageCodecInfo ObterCodec(ImageFormat formato)
+        private ImageCodecInfo GetCodec(ImageFormat formato)
         {
             var codec = ImageCodecInfo.GetImageDecoders().FirstOrDefault(c => c.FormatID == formato.Guid);
             if (codec == null) throw new NotSupportedException();

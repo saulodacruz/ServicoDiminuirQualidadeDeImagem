@@ -15,10 +15,10 @@ namespace ServicoDiminuirQualidadeDeImagem
             Console.WriteLine("Digite o percentual para diminuir a imagem: ");
             var percentage = int.Parse(Console.ReadLine());
 
-            var servico = new Service(pathOrigin, newPath, percentage);
+            var s = new Service(pathOrigin, newPath, percentage);
             try
             {
-                servico.Run();
+                s.Run();
                 Console.WriteLine("Imagem reduzida com sucesso !");
                 Console.ReadKey();
             }
