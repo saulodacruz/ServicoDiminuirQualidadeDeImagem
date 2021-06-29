@@ -1,0 +1,16 @@
+C:\Users\Saulo\Desktop\Projetos\Programa Diminui Qualidade de Imagem\ServicoDiminuirQualidadeDeImagem\ServicoDiminuirQualidadeDeImagem\bin\Debug\ServicoDiminuirQualidadeDeImagem.exe.config
+C:\Users\Saulo\Desktop\Projetos\Programa Diminui Qualidade de Imagem\ServicoDiminuirQualidadeDeImagem\ServicoDiminuirQualidadeDeImagem\bin\Debug\ServicoDiminuirQualidadeDeImagem.exe
+C:\Users\Saulo\Desktop\Projetos\Programa Diminui Qualidade de Imagem\ServicoDiminuirQualidadeDeImagem\ServicoDiminuirQualidadeDeImagem\bin\Debug\ServicoDiminuirQualidadeDeImagem.pdb
+C:\Users\Saulo\Desktop\Projetos\Programa Diminui Qualidade de Imagem\ServicoDiminuirQualidadeDeImagem\ServicoDiminuirQualidadeDeImagem\obj\Debug\ServicoDiminuirQualidadeDeImagem.csproj.CoreCompileInputs.cache
+C:\Users\Saulo\Desktop\Projetos\Programa Diminui Qualidade de Imagem\ServicoDiminuirQualidadeDeImagem\ServicoDiminuirQualidadeDeImagem\obj\Debug\ServicoDiminuirQualidadeDeImagem.exe
+C:\Users\Saulo\Desktop\Projetos\Programa Diminui Qualidade de Imagem\ServicoDiminuirQualidadeDeImagem\ServicoDiminuirQualidadeDeImagem\obj\Debug\ServicoDiminuirQualidadeDeImagem.pdb
+C:\Users\Cast\Desktop\Postar no git\Programa Diminui Qualidade de Imagem\ServicoDiminuirQualidadeDeImagem\ServicoDiminuirQualidadeDeImagem\bin\Debug\ServicoDiminuirQualidadeDeImagem.exe.config
+C:\Users\Cast\Desktop\Postar no git\Programa Diminui Qualidade de Imagem\ServicoDiminuirQualidadeDeImagem\ServicoDiminuirQualidadeDeImagem\bin\Debug\ServicoDiminuirQualidadeDeImagem.exe
+C:\Users\Cast\Desktop\Postar no git\Programa Diminui Qualidade de Imagem\ServicoDiminuirQualidadeDeImagem\ServicoDiminuirQualidadeDeImagem\bin\Debug\ServicoDiminuirQualidadeDeImagem.pdb
+C:\Users\Cast\Desktop\Postar no git\Programa Diminui Qualidade de Imagem\ServicoDiminuirQualidadeDeImagem\ServicoDiminuirQualidadeDeImagem\obj\Debug\ServicoDiminuirQualidadeDeImagem.csproj.CoreCompileInputs.cache
+C:\Users\Cast\Desktop\Postar no git\Programa Diminui Qualidade de Imagem\ServicoDiminuirQualidadeDeImagem\ServicoDiminuirQualidadeDeImagem\obj\Debug\ServicoDiminuirQualidadeDeImagem.exe
+C:\Users\Cast\Desktop\Postar no git\Programa Diminui Qualidade de Imagem\ServicoDiminuirQualidadeDeImagem\ServicoDiminuirQualidadeDeImagem\obj\Debug\ServicoDiminuirQualidadeDeImagem.pdb
+C:\Users\Cast\Desktop\Postar no git\Programa Diminui Qualidade de Imagem\ServicoDiminuirQualidadeDeImagem\ServicoDiminuirQualidadeDeImagem\bin\Debug\ServicoDiminuirQualidadeDeImagem.exe.manifest
+C:\Users\Cast\Desktop\Postar no git\Programa Diminui Qualidade de Imagem\ServicoDiminuirQualidadeDeImagem\ServicoDiminuirQualidadeDeImagem\bin\Debug\ServicoDiminuirQualidadeDeImagem.application
+C:\Users\Cast\Desktop\Postar no git\Programa Diminui Qualidade de Imagem\ServicoDiminuirQualidadeDeImagem\ServicoDiminuirQualidadeDeImagem\obj\Debug\ServicoDiminuirQualidadeDeImagem.exe.manifest
+C:\Users\Cast\Desktop\Postar no git\Programa Diminui Qualidade de Imagem\ServicoDiminuirQualidadeDeImagem\ServicoDiminuirQualidadeDeImagem\obj\Debug\ServicoDiminuirQualidadeDeImagem.application
